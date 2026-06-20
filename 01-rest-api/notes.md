@@ -15,8 +15,6 @@ first_name=John
 last_name=Doe
 ```
 
----
-
 ## JSON Middleware
 
 ```js
@@ -69,8 +67,6 @@ GET /users
 </ul>
 ```
 
----
-
 ## 2. GET /api/users
 
 ### Purpose
@@ -106,8 +102,6 @@ res.json(users)
   }
 ]
 ```
-
----
 
 ## 3. GET /api/users/:id
 
@@ -161,8 +155,6 @@ res.status(404).json(...)
   "first_name": "David"
 }
 ```
-
----
 
 ## 4. POST /api/users
 
@@ -223,8 +215,6 @@ fs.writeFile(...)
 }
 ```
 
----
-
 ## 5. PATCH /api/users/:id
 
 ### Purpose
@@ -278,8 +268,6 @@ PATCH /api/users/5
 PATCH updates only the fields provided in the request.
 
 If only `first_name` is sent, all other fields remain unchanged.
-
----
 
 ## 6. DELETE /api/users/:id
 
@@ -339,8 +327,6 @@ Example:
 
 Only the first name changes.
 
----
-
 ## PUT
 
 Replaces the entire resource.
@@ -370,6 +356,3 @@ Since this project only needs partial updates, PATCH was used.
 | Read One  | GET         | /api/users/:id |
 | Update    | PATCH       | /api/users/:id |
 | Delete    | DELETE      | /api/users/:id |
-
-```
-```
