@@ -1,0 +1,82 @@
+[
+  {
+    "id": "8effce65-41da-412d-a4df-e313231a4cee",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Groceries",
+    "content": "Milk, eggs, bread, coffee beans, and spinach.",
+    "createdAt": "2026-08-05T16:53:08.210Z",
+    "updatedAt": "2026-08-05T16:53:08.210Z"
+  },
+  {
+    "id": "504d2c59-1210-476a-88fc-117a3d401564",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Work Tasks",
+    "content": "Submit quarterly report by 3 PM and schedule client sync for Thursday.",
+    "createdAt": "2026-08-05T16:55:02.034Z",
+    "updatedAt": "2026-08-05T16:55:02.034Z"
+  },
+  {
+    "id": "071ccd80-fad8-4313-b0ea-4d16a75bc71b",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Book Recommendations",
+    "content": "Atomic Habits by James Clear, Project Hail Mary by Andy Weir, Deep Work by Cal Newport.",
+    "createdAt": "2026-08-05T16:55:11.714Z",
+    "updatedAt": "2026-08-05T16:55:11.714Z"
+  },
+  {
+    "id": "dfb8eab4-4629-4bd1-9f4e-43a401082266",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Workout Plan",
+    "content": "30 minutes cardio, 3 sets of pushups, 3 sets of squats, 15 minutes stretching.",
+    "createdAt": "2026-08-05T16:55:19.140Z",
+    "updatedAt": "2026-08-05T16:55:19.140Z"
+  },
+  {
+    "id": "715b9fc3-906e-497d-9948-b5906a0210d6",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Weekly Meal Prep",
+    "content": "Monday: Grilled chicken salad, Tuesday: Lentil soup, Wednesday: Veggie stir-fry.",
+    "createdAt": "2026-08-05T16:55:30.969Z",
+    "updatedAt": "2026-08-05T16:55:30.969Z"
+  },
+  {
+    "id": "a596bbca-d3b3-4d2f-94b5-1a3e8c77e334",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "App Ideas",
+    "content": "A minimalist habit tracker that uses custom audio cues for daily streaks.",
+    "createdAt": "2026-08-05T16:55:38.670Z",
+    "updatedAt": "2026-08-05T16:55:38.670Z"
+  },
+  {
+    "id": "2a917b76-9221-4bb4-98b1-436193950933",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Meeting Summary",
+    "content": "Reviewed sprint goals, assigned ticket #204 to dev team, deadline set for next Friday.",
+    "createdAt": "2026-08-05T16:55:45.249Z",
+    "updatedAt": "2026-08-05T16:55:45.249Z"
+  },
+  {
+    "id": "c1417f5b-1706-44fa-8db7-4d6128f572b3",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Gift Ideas",
+    "content": "Mom: Noise-canceling headphones, Dad: Leather wallet, Sister: Kindle Paperwhite.",
+    "createdAt": "2026-08-05T16:55:52.126Z",
+    "updatedAt": "2026-08-05T16:55:52.126Z"
+  },
+  {
+    "id": "1f0cc8f3-8be3-45d2-8e9f-2f4e8bdeb616",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Packing List",
+    "content": "Passport, phone charger, sunglasses, light jacket, comfortable walking shoes.",
+    "createdAt": "2026-08-05T16:56:13.300Z",
+    "updatedAt": "2026-08-05T16:56:13.300Z"
+  },
+  {
+    "id": "770c733f-e077-489e-8c23-856101a61437",
+    "userId": "0d28213b-65b1-4518-acfb-7076dd760fcc",
+    "title": "Quick Recipe",
+    "content": "Garlic Butter Pasta: Boil pasta, sauté minced garlic in butter, toss with parmesan and fresh parsley.",
+    "createdAt": "2026-08-05T16:56:27.875Z",
+    "updatedAt": "2026-08-05T16:56:27.875Z"
+  }
+]
