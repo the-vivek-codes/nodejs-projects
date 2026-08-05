@@ -34,7 +34,7 @@ npm install
 node index.js
 ```
 
-Server runs on:
+Server runs at:
 
 ```text
 http://localhost:8000
