@@ -29,7 +29,7 @@ https://www.mockaroo.com/
 
 ```bash
 git clone https://github.com/the-vivek-codes/nodejs-projects
-cd nodejs-projects
+cd 01-rest-api
 npm install
 node index.js
 ```
